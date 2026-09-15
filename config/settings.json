@@ -1,0 +1,9 @@
+{
+  "app": "snos_manager",
+  "version": "5.7.2",
+  "locale": "ru",
+  "theme": "orange",
+  "workers": 10,
+  "animations": true
+}
+
